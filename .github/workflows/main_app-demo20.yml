@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  APP_PATH: './WebApi1/WebApi1'
+  APP_PATH: './WebApi1'
 
 jobs:
   build:
@@ -26,7 +26,7 @@ jobs:
           include-prerelease: true
 
       - name: Build with dotnet
-        run: dotnet build ./WebApi1 --configuration Release
+        run: dotnet build ${{env.APP_PATH}} --configuration Release
 
       - name: dotnet publish
         run: dotnet publish -c Release -o ${{env.APP_PATH}}/myapp
