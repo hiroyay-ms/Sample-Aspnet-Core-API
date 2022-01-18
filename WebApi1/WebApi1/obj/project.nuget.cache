@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VH7JoDJnPcWj5IWRtk92Ay/mJ2SZXCTrDRgrRdGDTn/wDD9QCnS3lF4Kmy29ynB0OGhugYmvRhLJFQ6E7w42wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hiroyay\\source\\repos\\hiroyay-ms\\Sample-Aspnet-Core-API\\WebApi1\\WebApi1\\WebApi1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hiroyay\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hiroyay\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hiroyay\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\hiroyay\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\hiroyay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\hiroyay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
