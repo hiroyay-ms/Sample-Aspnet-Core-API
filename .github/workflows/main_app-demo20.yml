@@ -26,7 +26,7 @@ jobs:
           include-prerelease: true
 
       - name: Build with dotnet
-        run: dotnet build --configuration Release
+        run: dotnet build ${{env.APP_PATH}} --configuration Release
 
       - name: dotnet publish
         run: dotnet publish -c Release -o ${{env.APP_PATH}}/myapp
